@@ -15,8 +15,8 @@ These components are min–max normalized and combined into a composite **geodiv
 ⚠️ **Important:** This GitHub repository is intentionally lightweight and does **NOT** include large processed inputs (e.g., rasters, full GPKGs).  
 For a self-contained, citable replication package (processed inputs where licensing permits, manifests, checksums, scripts, and expected outputs), use the Zenodo archive:
 
-- **Zenodo DOI:** 10.5281/zenodo.18519435  
-- **Record:** https://zenodo.org/records/18519435
+- **Zenodo DOI:** https://doi.org/10.5281/zenodo.18543110 
+- **Record:** https://zenodo.org/records/18543110
 
 The recommended reproduction path is:
 1) download the Zenodo ZIP, 2) unzip locally, 3) run the one-click script.
