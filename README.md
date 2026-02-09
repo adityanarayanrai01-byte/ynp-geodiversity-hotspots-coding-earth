@@ -1,4 +1,4 @@
-Here’s a **clean, drop-in replacement** README that keeps your tone/title but fixes two things: (i) it stops promising a “one-click script” as the primary path, and (ii) it makes the **minimal reproduction steps match the verified workflow** (core build + summaries + diagnostics + Fig 1).
+
 
 ````markdown
 # Coding Earth in practice: A fully reproducible Python workflow for 1-km geodiversity hotspot mapping in Yellowstone National Park
